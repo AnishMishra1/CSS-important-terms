@@ -1,0 +1,7 @@
+
+
+position are followig in CSS-:
+Relative - the element is positioned relative to its normal position.
+ Absolute - the element is positioned absolutely to its first positioned parent. 
+ Fixed - the element is positioned related to the browser window.
+ Sticky - the element is positioned based on the user's scroll position.
